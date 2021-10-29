@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573218217 source:f:\c program\try\main.cpp
+	<stdio.h>
+	<conio.h>
+
